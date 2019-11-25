@@ -1,2 +1,2 @@
-# FluentClassDefinition
-Examples for fluent class definition
+# Fluent Class Definition
+Examples for fluent class definition coding.
